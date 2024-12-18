@@ -1,0 +1,23 @@
+EMPEZAR
+
+NOTA "Declaramos los tesoros"
+TESORO oro = 10
+TESORO plata = 5
+
+NOTA "Sumamos oro y plata"
+COMBINA oro CON plata
+MUESTRA resultado
+
+NOTA "Restamos plata del oro"
+QUITA oro DE plata
+MUESTRA resultado
+
+NOTA "Multiplicamos oro y plata"
+MULTIPLICA oro POR plata
+MUESTRA resultado
+
+NOTA "Dividimos oro entre plata"
+DIVIDE oro ENTRE plata
+MUESTRA resultado
+
+FIN
